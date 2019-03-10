@@ -76,26 +76,41 @@ Macklin, Miles and Matthias Mueller. Position Based Fluids. 2013. Sun, Weilun. Â
 **Yiyun Wang:**
 
 1\. Implemented simulation loop (update particle position part)
+
 2\. Recorded milestone video
+
 3\. Structured milestone website page
+
 4\. Add additional code to achieve various color features
+
 5\. Made final video
+
 6\. Made final ppt associated with the video
+
 7\. Structured final website page
+
 8\. Contributed to the report
+
 9\. Recorded final results of the code
 
 **Zekai Fan:**
 
 1\. Implemented simulation loop (update vorticity confinement and viscosity part)
+
 2\. Drafted this report.
+
 3\. Contributed to milestone ppt.
 
 **Xiaoyu Dai:**
 
 1\. Implemented simulation loop (update external forces and collision part)
+
 2\. Implemented main structure of the code based on starter code
+
 3\. Debugged all of the code, add improvement to the algorithm
+
 4\. Set suitable values for all parameters
+
 5\. Contributed to milestone ppt
+
 6\. Help solved System incompatibility issue
