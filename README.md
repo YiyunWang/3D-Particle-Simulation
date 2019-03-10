@@ -41,11 +41,13 @@ Parallelizable portion of the code is intended to parallelize at thread level us
 
 ## Results
 
-[video](https://youtu.be/74Kw8dI266A)
+[![alt text](6.jpg)](https://youtu.be/mvV2fHi-h0Q)
 
 **Render result with color change by position of mouse**
 
 <video width="800px" height="800px" controls=""><source src="https://youtu.be/74Kw8dI266A" type="video/mp4"></video>
+
+[![alt text](5.jpg)](https://youtu.be/dkuk4XEM-NU)
 
 **Render result with color change by height of particles**
 
@@ -57,6 +59,8 @@ Parallelizable portion of the code is intended to parallelize at thread level us
 
 <td><video width="800px" height="800px" controls=""><source src="8.mp4" type="video/mp4"></video> 
 
+[![alt text](8.jpg)](https://youtu.be/yhpFLSvkHsg)
+
 **Render result with tensile simulation**
 
 </td>
@@ -66,6 +70,8 @@ Parallelizable portion of the code is intended to parallelize at thread level us
 <tr>
 
 <td><video width="800px" height="800px" controls=""><source src="7.mp4" type="video/mp4"></video> 
+
+[![alt text](7.jpg)](https://youtu.be/CGUh-AF0Sr8)
 
 **Render result with normal simulation**
 
